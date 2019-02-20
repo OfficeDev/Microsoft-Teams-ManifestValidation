@@ -3,7 +3,7 @@
 // </copyright>
 [assembly:System.Runtime.CompilerServices.InternalsVisibleTo("ManifestValidation.Tests")]
 
-namespace ManifestValidation
+namespace Microsoft.Teams.ManifestValidation
 {
     using System.Threading.Tasks;
 

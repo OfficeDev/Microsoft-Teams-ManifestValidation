@@ -2,7 +2,7 @@
 // Copyright (c) Microsoft. All rights reserved.
 // </copyright>
 
-namespace ManifestValidation.Validator.Helper
+namespace Microsoft.Teams.ManifestValidation.Validator.Helper
 {
     using System.Collections.Generic;
     using System.Threading.Tasks;

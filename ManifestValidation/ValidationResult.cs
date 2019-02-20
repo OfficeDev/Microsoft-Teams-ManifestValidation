@@ -2,7 +2,7 @@
 // Copyright (c) Microsoft. All rights reserved.
 // </copyright>
 
-namespace ManifestValidation
+namespace Microsoft.Teams.ManifestValidation
 {
     using System.Collections.Generic;
 

@@ -2,12 +2,13 @@
 // Copyright (c) PlaceholderCompany. All rights reserved.
 // </copyright>
 
-namespace ManifestValidation.Tests.Validator
+namespace Microsoft.Teams.ManifestValidation.Tests.Validator
 {
     using System;
     using System.Linq;
     using System.Threading.Tasks;
-    using ManifestValidation.Validator;
+    using Microsoft.Teams.ManifestValidation;
+    using Microsoft.Teams.ManifestValidation.Validator;
     using Microsoft.VisualStudio.TestTools.UnitTesting;
     using Newtonsoft.Json.Linq;
 
