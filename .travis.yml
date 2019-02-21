@@ -2,6 +2,3 @@ language: csharp
 solution: ManifestValidation.sln
 mono:
 - latest
-dotnet: 2.2.104-1
-script:
-- dotnet restore
