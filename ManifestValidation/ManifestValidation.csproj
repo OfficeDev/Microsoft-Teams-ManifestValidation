@@ -3,6 +3,18 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <StyleCopTreatErrorsAsWarnings>false</StyleCopTreatErrorsAsWarnings>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>MicrosoftTeams</Authors>
+    <Company>Microsoft</Company>
+    <PackageLicenseUrl>https://github.com/OfficeDev/Microsoft-Teams-ManifestValidation/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/OfficeDev/Microsoft-Teams-ManifestValidation</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/OfficeDev/Microsoft-Teams-ManifestValidation</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>ManifestValidation</PackageTags>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Copyright>Microsoft</Copyright>
+    <Description>Validates Microsoft Teams manifest</Description>
+    <PackageId>ManifestValidation</PackageId>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
